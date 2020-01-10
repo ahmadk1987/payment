@@ -1,0 +1,12 @@
+{
+    "name": "amdk1987/cms",
+    "description": "first package",
+    "autoload": {
+        "psr-4": {
+            "Roocket\\Cms\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/Support":"~5"
+    }
+}
